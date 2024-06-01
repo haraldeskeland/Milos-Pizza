@@ -141,6 +141,8 @@ ul {
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  margin: 10px;
+  padding: 10px;
 }
 .header {
   width: 100%;
@@ -271,6 +273,7 @@ h1 {
   width: 1fr;
 }
 marquee {
+  font-family: "Syne", sans-serif;
   color: black;
   font-size: 40px;
   margin: 0;
