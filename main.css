@@ -169,15 +169,15 @@ ul {
   color: rgb(255, 255, 255);
   font-size: 45px;
   width: 700px;
-  padding-right: 50px;
-  margin-right: 50px;
+  padding: 50px;
+  margin: 50px;
   background: rgba(255, 255, 255, 0.07);
   border-radius: 16px;
   /*b box-shadow: 0 4px 30px rgb; */
   animation: float 4s ease-in-out infinite;
 
-  backdrop-filter: blur(5.3px);
-  -webkit-backdrop-filter: blur(5.3px);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
